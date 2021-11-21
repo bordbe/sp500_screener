@@ -1,4 +1,9 @@
 # SP500 Screener
+![GitHub all releases](https://img.shields.io/github/downloads/bordbe/sp500_screener/total)
+![GitHub top language](https://img.shields.io/github/languages/top/bordbe/sp500_screener?color=yellow)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/bordbe/sp500_screener)
+![GitHub forks](https://img.shields.io/github/forks/bordbe/sp500_screener?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/bordbe/sp500_screener?style=social)
 
 Here is a script to screen the constituents of the SP500. The criteria used is to have `P/B ratio < 1.5` **and** `ROI above 10%`, then the securities passing this condition are sorting by ROE. 
 
