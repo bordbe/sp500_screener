@@ -29,7 +29,7 @@ sudo apt-get install git
  
 1. Clone the repo
 ```sh
-git clone https://github.com/NicolasBrondin/basic-readme-template
+git clone https://github.com/bordbe/sp500_screener
 ```
 2. Install the required python libraries
 ```sh
